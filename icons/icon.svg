@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title>PDF Factory</title>
+  <defs>
+    <linearGradient id="background" x1="64" y1="48" x2="448" y2="464" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6c63ff"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="#0f1117"/>
+  <rect x="56" y="56" width="400" height="400" rx="88" fill="url(#background)"/>
+  <path fill="#fff" d="M164 126c-16.6 0-30 13.4-30 30v200c0 16.6 13.4 30 30 30h184c16.6 0 30-13.4 30-30V216l-90-90H164Zm116 25.5L352.5 224H295c-8.3 0-15-6.7-15-15v-57.5ZM198 270h116c8.3 0 15 6.7 15 15s-6.7 15-15 15H198c-8.3 0-15-6.7-15-15s6.7-15 15-15Zm0 58h116c8.3 0 15 6.7 15 15s-6.7 15-15 15H198c-8.3 0-15-6.7-15-15s6.7-15 15-15Z"/>
+</svg>
